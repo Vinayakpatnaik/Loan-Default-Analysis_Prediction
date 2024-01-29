@@ -26,4 +26,14 @@ This project aimed to develop a toolset for predicting loan default using both m
 ## Methodology:
 1. Data Extraction & Cleaning: Extract, transform, and load (ETL) relevant data into both Power BI for visualization and Python for preprocessing, and then into the machine learning model.
 2. Machine Learning Models: Implement predictive models using algorithms such as logistic regression, decision trees, or ensemble methods to forecast loan default probabilities.
-3. Dashboard Design: To identify key metrics/indicators and design visually compelling dashboards for analysis
+3. Dashboard Design: To identify key metrics/indicators and design visually compelling dashboards for analysis.
+
+## Expected Outcomes:
+1. Accurate Predictions: Machine learning models providing accurate predictions of loan default probabilities.
+2. Visual Insights: Interactive dashboards giving meaningful visual insights into the risk profile of the loan portfolio.
+3. Enhanced Decision-Making: Empowering financial institutions with tools to make informed decisions and proactively manage loan default risks.
+
+## Tools and Technologies:
+1. Data cleaning: Libraries in Python like Pandas and NumPy will be useful in cleaning the data.
+2. Machine Learning: Python with scikit-learn for machine learning model development.
+3. Data Visualization: Power BI for creating interactive and insightful dashboards.
